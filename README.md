@@ -105,9 +105,9 @@ WHOIS was used to retrieve publicly available domain registration information.
 
 ### Evidence
 
-![WHOIS Scan](docs/screenshots/whois1.png)
-![WHOIS Scan](docs/screenshots/whois2.png)
-![WHOIS Scan](docs/screenshots/whois3.png)
+![WHOIS Scan](screenshots/whois1.png)
+![WHOIS Scan](screenshots/whois2.png)
+![WHOIS Scan](screenshots/whois3.png)
 
 ## Task 2 — Web Technology Fingerprinting with WhatWeb
 
@@ -148,7 +148,7 @@ The identified technologies should not automatically be considered vulnerabiliti
 
 ### Evidence
 
-![WhatWeb Scan](docs/screenshots/whatweb.png)
+![WhatWeb Scan](screenshots/whatweb.png)
 
 
 ## Task 3 — DNS Resolution with NSLookup
@@ -181,7 +181,7 @@ DNS resolution is an important part of reconnaissance because it establishes the
 
 ### Evidence
 
-![NSLookup Scan](docs/screenshots/nslookup.png)
+![NSLookup Scan](screenshots/nslookup.png)
 
 ## Task 4 — HTTP Header Analysis with cURL
 
@@ -227,7 +227,7 @@ Note: The Set-Cookie value returned by the server is not included in this docume
 
 ### Evidence
 
-![Curl Scan](docs/screenshots/curl-headers.png)
+![Curl Scan](screenshots/curl-headers.png)
 
 
 ## Task 5 — Web Application Firewall Detection with WAFW00F
@@ -261,7 +261,7 @@ However, the presence of a WAF does not mean that the application is completely 
 
 ### Evidence
 
-![WAFW00F Scan](docs/screenshots/wafw00f.png)
+![WAFW00F Scan](screenshots/wafw00f.png)
 
 ## Task 6 — DNS Enumeration with DNSRecon
 
@@ -326,7 +326,7 @@ The apparent BIND version disclosure is useful reconnaissance information becaus
 
 ### Evidence
 
-![DNSRecon Scan](docs/screenshots/dnsrecon.png)
+![DNSRecon Scan](screenshots/dnsrecon.png)
 
 
 ## 📊 W2-PM1 — Findings Summary
